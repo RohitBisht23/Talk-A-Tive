@@ -1,0 +1,23 @@
+{
+  "name": "talk-a-tive",
+  "version": "1.0.0",
+  "description": "The Complete chat application created in MERN STACK",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon Back-End/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitBisht23/Talk-A-Tive.git"
+  },
+  "author": "Rohit Bisht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitBisht23/Talk-A-Tive/issues"
+  },
+  "homepage": "https://github.com/RohitBisht23/Talk-A-Tive#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
